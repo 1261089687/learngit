@@ -1,3 +1,4 @@
 git is version control system
 git is good two
 git stage
+Create a new branch is quick
